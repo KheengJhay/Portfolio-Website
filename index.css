@@ -239,6 +239,18 @@ div.project > div > div.project-main {
   margin: 20px;
   padding: 5px 5px 5px 5px;
 }
+button > a.btn-link{
+  font-size: 15px;
+  color: var(--font-color);
+  text-decoration: none;
+  padding: 20px 10px 20px 10px;
+}
+button > a.btn-link-preview{
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  padding: 20px 10px 20px 10px;
+}
 /******* Project Images *******/
 div.project > div > div.project-main img {
   display: flex;
