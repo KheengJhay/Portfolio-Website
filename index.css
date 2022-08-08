@@ -248,14 +248,14 @@ div.bootstrap-container{
 }
 div.bootstrap-container > div.bootstrap-container-text{
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   font-family: Arial;
   font-weight: bolder;
   margin: 10px 0 10px 30px;
   padding-right: 10px;
 }
 div.bootstrap-container > div.bootstrap-container-image{
-  padding-left: 35px;
+  padding-left: 25px;
 }
 .html {
   width: 100%;
